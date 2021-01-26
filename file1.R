@@ -1,5 +1,6 @@
 #file
 seq(0,1,.1)
+
 rep(1:2,5)
 rep(1:3,times=1:3
   )
